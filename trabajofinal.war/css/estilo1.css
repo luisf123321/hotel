@@ -1,0 +1,29 @@
+#contenedor{
+display:table;
+}
+
+#banners{
+display:table-cell;
+width:50%;
+
+}
+
+#noticias{
+display:table-cell;
+width:50%;
+text-align:center;
+}
+li a{
+display:block;
+color:white;
+text-align:center
+padding:14px 16px
+text-decoration:none;
+}
+article img{
+
+border: solid red 2px
+background-color:black;
+float:left;
+margin-right:5px;
+}
